@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "subject": "HTML",
+        "question": "What does HTML stand for?",
+        "options": [
+            "Hyper Text Markup Language",
+            "High Text Machine Language",
+            "Hyperlinks and Text Markup Language",
+            "Home Tool Markup Language"
+        ],
+        "correctAnswer": "Hyper Text Markup Language",
+        "marks": 1
+    },
+    {
+        "id": 2,
+        "subject": "HTML",
+        "question": "Which HTML tag is used to create a hyperlink?",
+        "options": [
+            "<a>",
+            "<p>",
+            "<h1>",
+            "<img>"
+        ],
+        "correctAnswer": "<a>",
+        "marks": 1
+    },
+    {
+        "id": 3,
+        "subject": "CSS",
+        "question": "Which CSS property changes text color?",
+        "options": [
+            "background",
+            "color",
+            "font",
+            "style"
+        ],
+        "correctAnswer": "color",
+        "marks": 1
+    },
+    {
+        "id": 4,
+        "subject": "CSS",
+        "question": "Which property creates space inside an element?",
+        "options": [
+            "margin",
+            "padding",
+            "border",
+            "display"
+        ],
+        "correctAnswer": "padding",
+        "marks": 1
+    },
+    {
+        "id": 5,
+        "subject": "JavaScript",
+        "question": "Which keyword declares a variable that can be reassigned?",
+        "options": [
+            "const",
+            "let",
+            "static",
+            "final"
+        ],
+        "correctAnswer": "let",
+        "marks": 1
+    }
+]
